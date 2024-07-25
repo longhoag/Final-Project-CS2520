@@ -4,7 +4,7 @@ In order to run the code on your machine, you would need to set up the environem
 
 ### Set up the environement
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> Depend on your   ```python```
 >
 > 
 ```python
