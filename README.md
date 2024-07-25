@@ -18,12 +18,11 @@ source myenv/bin/activate
 
 ### Install the required libraries for the program 
 ```python
-pip3 install SpeechRecognition
-pip3 install pyttsx3
-pip3 install gtts
-pip3 install pyaudio
+pip3 install SpeechRecognition   #needed to recognize speech
+pip3 install gtts pyttsx3        #needed for the voice after converting to speech
+pip3 install pyaudio             #needed to handle cross-platform audio input/output
+pip3 install playsound           #needed for audio playback
 pip3 install setuptools
-pip3 install playsound
 ```
 
 ### Running the script 
@@ -31,3 +30,6 @@ pip3 install playsound
 ```python
 python3 main.py
 ```
+
+
+## Output Demo
