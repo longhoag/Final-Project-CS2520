@@ -8,9 +8,26 @@ In order to run the code on your machine, you would need to set up the environem
 >
 > 
 
+
 ### Create and activate a virtual environment to avoid any conflicting packages or configurations
 ```python
 python3 -m venv myenv
 source myenv/bin/activate
 ```
+
+
 ### Install the required libraries for the program 
+```
+pip3 install SpeechRecognition
+pip3 install pyttsx3
+pip3 install gtts
+pip3 install pyaudio
+pip3 install setuptools
+pip3 install playsound
+```
+
+### Running the script 
+
+```
+python3 main.py
+```
