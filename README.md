@@ -4,7 +4,7 @@ In order to run the code on your machine, you would need to set up the environem
 
 ### Set up the environement
 
-```
+```python
 python3 -m venv myenv
 source myenv/bin/activate
 ```
