@@ -1,2 +1,5 @@
-# Final Project CS2520: Speech - Text Converter
-Final Project for CS2520
+#Speech <--> Text Converter
+
+## Running the Code
+
+### Set up the environement
