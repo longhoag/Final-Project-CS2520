@@ -17,7 +17,7 @@ source myenv/bin/activate
 
 
 ### Install the required libraries for the program 
-```
+```python
 pip3 install SpeechRecognition
 pip3 install pyttsx3
 pip3 install gtts
@@ -28,6 +28,6 @@ pip3 install playsound
 
 ### Running the script 
 
-```
+```python
 python3 main.py
 ```
