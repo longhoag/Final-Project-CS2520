@@ -26,13 +26,13 @@ pip3 install setuptools
 ```
 
 
-_SpeechRecognition: needed to recognize speech
+_SpeechRecognition: needed to recognize speech_
 
-gtts pyttsx3: needed for the voice after converting to speech
+_gtts pyttsx3: needed for the voice after converting to speech_
 
-pyaudio: needed to handle cross-platform audio input/output
+_pyaudio: needed to handle cross-platform audio input/output_
 
-playsound: needed for audio playback_
+_playsound: needed for audio playback_
 
 
 
