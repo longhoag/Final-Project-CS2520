@@ -33,3 +33,4 @@ python3 main.py
 
 
 ## Output Demo
+![Screenshot 2024-07-26 at 7 25 19 PM](https://github.com/user-attachments/assets/96e5e788-197d-4dad-8aa8-e16488135fa6)
