@@ -1,5 +1,5 @@
 #Name: Long Hoang 
-#Final Project 
+#Final Project: Speech -- Text Convereter
 
 import speech_recognition as sr #convert speech to text
 import pyttsx3
